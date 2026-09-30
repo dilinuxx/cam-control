@@ -1,0 +1,14 @@
+{
+    "camera": "Ham-1-C13440-20CU_S/N: 303197",
+    "image_directory": "",
+    "Thermal_Cal": [
+        302.6,
+        0.1433,
+        268.3
+    ],
+    "colormap": "jet",
+    "resize": 0.45,
+    "Alg_Settings": {},
+    "exposure_time_sec": 0.005,
+    "reticle_flag": true
+}

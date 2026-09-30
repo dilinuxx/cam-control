@@ -1,0 +1,46 @@
+{
+    "settings_file": "./Royce_Settings.json",
+    "input_Folder": " ",
+    "output_Folder": "C:\\DAM2\\Data",
+    "record_fps": 2,
+    "camera": true,
+    "Cam_Exposure_us": 1000,
+    "Thermal_Cal": [
+        302.6,
+        0.1433,
+        268.3
+    ],
+    "ColorMap": "jet",
+    "Display_Size": 0.45,
+    "bright": 1,
+    "niDAQ": 1,
+    "Channels": [
+        "Dev1/ai0",
+        "Dev1/ai1"
+    ],
+    "Channels_dict": {
+        "Det-1a": [
+            "f-2",
+            "Dev1/ai0",
+            ""
+        ],
+        "Det-1b": [
+            "f-3",
+            "Dev1/ai1",
+            ""
+        ]
+    },
+    "Cal_Folder": "./",
+    "Detector_Si_spot_size_mm": 5,
+    "Detector_InGa_spot_size_mm": 8,
+    "rows": 2,
+    "cols": 50,
+    "laser_offset_um": 127,
+    "laser_connected": [
+        20,
+        30,
+        40
+    ],
+    "Serial_Port": "",
+    "baud_rate": 9600
+}
